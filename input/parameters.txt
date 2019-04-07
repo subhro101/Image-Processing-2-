@@ -1,0 +1,16 @@
+15
+../input/frog.ppm ../output/frog_Sobel.ppm edge3 3 200 200 50 50 45 45 45 200 100 50 100 50 48 47 300 75 100 100 50 48 47
+../input/frog.ppm ../output/frog_SobelchannelI.ppm edge4 3 200 200 50 50 15 200 100 50 100 15 300 75 100 100 15
+../input/tree.pgm ../output/tree_Sobel.pgm edge1 3 300 50 50 50 20 200 200 50 50 50 200 150 50 50 50
+../input/tree.pgm ../output/tree_Sobel_Theta.pgm edge2 3 300 50 50 50 20 45 200 200 50 50 50 45 200 150 50 50 50 45
+../input/tree.pgm ../output/tree_Sobelamp.pgm edge5 3 300 300 50 50 200 200 50 50 200 150 50 50
+../input/11.ppm ../output/11_Sobel.ppm edge3 3 200 200 150 150 45 45 45 200 100 50 100 50 48 47 300 100 50 50 50 48 47
+../input/11.ppm ../output/11_SobelchannelI.ppm edge4 3 200 200 150 150 15 200 100 50 100 15 300 100 50 50 15
+../input/slope.pgm ../output/slope_Sobel.pgm edge1 3 450 150 200 200 20 200 200 50 50 50 300 250 50 100 50
+../input/slope.pgm ../output/slope_Sobel_Theta.pgm edge2 3 450 150 200 200 20 45 200 200 50 50 50 45 300 250 50 100 50 45
+../input/slope.pgm ../output/slope_Sobelamp.pgm edge5 3 450 150 200 200 200 200 50 50 300 250 50 100
+../input/shore.ppm ../output/shore_Sobel.ppm edge3 3 200 200 50 50 45 45 45 200 100 50 100 50 48 47 300 100 50 50 50 48 47
+../input/shore.ppm ../output/shore_SobelchannelI.ppm edge4 3 200 200 50 50 15 200 100 50 100 15 300 100 50 50 15
+../input/13.pgm ../output/13_Sobel.pgm edge1 3 450 150 200 200 20 200 200 50 50 50 200 150 50 50 50
+../input/13.pgm ../output/13_Sobel_Theta.pgm edge2 3 450 150 200 200 20 135 200 200 50 50 50 135 200 150 50 50 50 135
+../input/13.pgm ../output/13_Sobelamp.pgm edge5 3 450 150 200 200 200 200 50 50 200 150 50 50

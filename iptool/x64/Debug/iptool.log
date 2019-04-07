@@ -1,0 +1,5 @@
+﻿  image.cpp
+c:\users\subhrajyoti\desktop\projects\spring 2019-desktop\image processing\hw3\version 5\iptool\iptool\iptools\image\image.cpp(262): warning C4101: 'j': unreferenced local variable
+c:\users\subhrajyoti\desktop\projects\spring 2019-desktop\image processing\hw3\version 5\iptool\iptool\iptools\image\image.cpp(167): warning C4715: 'image::getChannel': not all control paths return a value
+  iptool.vcxproj -> C:\Users\Subhrajyoti\Desktop\Projects\Spring 2019-desktop\Image Processing\HW3\Version 5\iptool\x64\Debug\iptool.exe
+  iptool.vcxproj -> C:\Users\Subhrajyoti\Desktop\Projects\Spring 2019-desktop\Image Processing\HW3\Version 5\iptool\x64\Debug\iptool.pdb (Full PDB)
